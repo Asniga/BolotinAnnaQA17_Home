@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39c628e-a008-4df2-afca-184034641bba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TelRan2.TelRan2.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TelRan2.TelRan2.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TelRan2.TelRan2.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TelRan2.TelRan2.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TelRan2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/TelRan2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelRan2/out/test/classes/Wikipedia.class" beforeDir="false" afterPath="$PROJECT_DIR$/TelRan2/out/test/classes/Wikipedia.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/TelRan2/.gradle/" />
@@ -54,7 +28,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TelRan2/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,10 +41,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="171">
+              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1371#1372#0" expanded="true" />
+                <element signature="e#2049#2050#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -110,6 +86,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,12 +110,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548179541831" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548426099562" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BolotinQA17" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -197,69 +175,68 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 32m 47s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 05m 07s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 33m 17s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 05m 47s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 34m 31s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 08m 33s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 35m 01s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 12m 32s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 45m 06s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 15h 47m 02s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 48m 27s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 15h 51m 31s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 49m 54s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 15h 59m 13s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 51m 00s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 16h 03m 29s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 51m 39s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 16h 19m 49s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.22 at 19h 52m 15s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 16h 21m 17s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36216217" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36006546" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -272,10 +249,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="171">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#2049#2050#0" expanded="true" />
           </folding>
         </state>
       </provider>
