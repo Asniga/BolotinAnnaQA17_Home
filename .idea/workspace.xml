@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39c628e-a008-4df2-afca-184034641bba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TelRan2/src/test/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TelRan2/src/test/java/LogOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TelRan2/out/test/classes/Wikipedia.class" beforeDir="false" afterPath="$PROJECT_DIR$/TelRan2/out/test/classes/Wikipedia.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java" afterDir="false" />
@@ -38,15 +40,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
-                <element signature="e#2049#2050#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/LogOut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1640#1641#0" expanded="true" />
+                <element signature="e#1667#1668#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +97,8 @@
       <list>
         <option value="$PROJECT_DIR$/TelRan2/build.gradle" />
         <option value="$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java" />
+        <option value="$PROJECT_DIR$/TelRan2/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/TelRan2/src/test/java/LogOut.java" />
       </list>
     </option>
   </component>
@@ -87,7 +117,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,19 +135,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="TelRan2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TelRan2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548426099562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548878706943" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BolotinQA17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,12 +174,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Wikipedia.chromeBrowserTest">
+  <component name="RunManager" selected="TestNG.LogOut">
     <configuration name="Wikipedia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TelRan2.TelRan2.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Wikipedia" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogOut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TelRan2.TelRan2.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogOut" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,6 +208,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LogOut" />
         <item itemvalue="TestNG.Wikipedia.chromeBrowserTest" />
         <item itemvalue="JUnit.Wikipedia" />
       </list>
@@ -175,41 +228,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 05m 07s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.30 at 20h 55m 29s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 05m 47s.xml">
+    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.30 at 20h 57m 42s.xml">
       <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 08m 33s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 05m 17s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.24 at 18h 12m 32s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 18m 18s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 15h 47m 02s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 21m 33s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 15h 51m 31s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 46m 15s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 15h 59m 13s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 48m 25s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 16h 03m 29s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 48m 53s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 16h 19m 49s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 52m 39s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Wikipedia_chromeBrowserTest - 2019.01.25 at 16h 21m 17s.xml">
-      <configuration name="Wikipedia.chromeBrowserTest" configurationId="TestNG" />
+    <history-entry file="LogOut - 2019.01.30 at 21h 52m 52s.xml">
+      <configuration name="LogOut" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -218,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36006546" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3420622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -249,12 +303,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/Wikipedia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#2049#2050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TelRan2/src/test/java/LogOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
