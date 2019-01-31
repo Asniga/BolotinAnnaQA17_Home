@@ -38,9 +38,9 @@ public class BaseTest {
         wd.findElement(By.id("wpPassword1")).sendKeys(s);
     }
 
-    public void insertName(String anna) {
+    public void insertName(String username) {
         wd.findElement(By.id("wpName1")).clear();
-        wd.findElement(By.id("wpName1")).sendKeys(anna);
+        wd.findElement(By.id("wpName1")).sendKeys(username);
     }
 
     public void clickLogin(String s) throws InterruptedException {
