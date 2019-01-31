@@ -1,26 +1,24 @@
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
-
 import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
     WebDriver wd;
 
     @BeforeClass
-    public void setUp (){
+    public void setUp () throws InterruptedException {
         wd=new ChromeDriver();
         wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS); // wait max 3 sec dlya poiska elementov, idet dal'she
         wd.manage().window().maximize();
+        login();
     }
 
     public void addToWatchList() throws InterruptedException {
         wd.findElement(By.cssSelector("[accesskey=w]")).click();
-        Thread.sleep(5000);
+        Thread.sleep(3000);
     }
 
     public void serch(String s) {
@@ -63,9 +61,6 @@ public class BaseTest {
         Thread.sleep(2000);
         wd.quit();
     }
-
-    //___________________________________________________________________________
-   //_____ _________________________________________________________________
 
     public void login() throws InterruptedException {
         openSite("https://www.wikipedia.org/");

@@ -2,12 +2,17 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class LogOut extends BaseTest {
     WebDriver wd;
+    @Test
+    public void logOutTest(){
+        wd.findElement(By.cssSelector("[title='Log out']")).click();
+    }
 
-
+/*
     @BeforeMethod
     public void ensurePreconditions() throws InterruptedException { // proverka chto user zaloginen pered kajdim testom v etom Classe
         if (!isUserLoggedIn())
@@ -26,7 +31,7 @@ public class LogOut extends BaseTest {
             return false;
         }
     }
+    */
 
 
-
-    }
+}
